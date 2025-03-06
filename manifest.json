@@ -1,0 +1,11 @@
+{
+	"id": "clean-copy",
+	"name": "Clean Copy",
+	"version": "1.0.0",
+	"minAppVersion": "0.0.0",
+	"description": "Copy text without comments, pop outs or highlights.",
+	"author": "Nate Laffan",
+	"authorUrl": "https://natelaffan.info",
+	"fundingUrl": "https://www.weareplannedparenthood.org/onlineactions/2U7UN1iNhESWUfDs4gDPNg2?sourceid=1000063",
+	"isDesktopOnly": false
+}
